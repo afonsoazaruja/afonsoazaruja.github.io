@@ -1,13 +1,13 @@
 baseURL: "https://afonsoazaruja.github.io/"
 languageCode: en-us
-title: My New Hugo Site
+title: Afonso Azaruja
 theme: ["PaperMod"]
 
 params:
   profileMode:
     enabled: true
     title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
+    subtitle: "Hello"
     imageUrl: "<image link>" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 120 # custom size
@@ -16,7 +16,9 @@ params:
       - name: Archive
         url: "/archive"
       - name: Github
-        url: "https://github.com/"
+        url: "https://github.com/afonsoazaruja/"
+      - name: LinkedIn
+        url: "https://github.com/afonsoazaruja/"
 
   socialIcons: # optional
     - name: "<platform>"
