@@ -6,22 +6,15 @@ theme: ["PaperMod"]
 params:
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "Hello"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    title: "Under Construction" # optional default will be site title
+    subtitle: ""
+    imageUrl: "" # optional
+    imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/afonsoazaruja/"
-      - name: LinkedIn
-        url: "https://github.com/afonsoazaruja/"
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/afonsoazaruja/"
+    - name: "GitHub"
+      url: "https://github.com/afonsoazaruja/"
