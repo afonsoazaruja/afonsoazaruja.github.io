@@ -6,15 +6,24 @@ theme: ["PaperMod"]
 params:
   profileMode:
     enabled: true
-    title: "Under Construction" # optional default will be site title
-    subtitle: ""
-    imageUrl: "" # optional
+    title: "Afonso Azaruja" # optional default will be site title
+    subtitle: "Student, Developer & Athlete"
+    imageUrl: "/pic.jpg" # optional
     imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
 
   socialIcons: # optional
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/afonsoazaruja/"
     - name: "GitHub"
       url: "https://github.com/afonsoazaruja/"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/afonsoazaruja/"
+    - name: "Email"
+      url: "afonso.azaruja@mailbox.org"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
