@@ -19,7 +19,7 @@ params:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/afonsoazaruja/"
     - name: "Email"
-      url: "mailto:afonso.azaruja@mailbox.org"
+      url: "mailto:me@afonsoazaruja.pt"
 
 menu:
   main:
