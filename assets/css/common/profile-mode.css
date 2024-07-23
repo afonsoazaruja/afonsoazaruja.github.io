@@ -3,7 +3,7 @@ h1 {
 }
 
 .profile span {
-    font-size: 25px;
+    font-size: 25px
 }
 
 .buttons,
@@ -22,7 +22,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 40px;
+    gap: 35px;
 }
 
 .profile img {
